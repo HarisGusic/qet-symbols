@@ -1,0 +1,44 @@
+<definition height="70" orientation="dyyy" type="element" version="0.80" link_type="simple" width="50" hotspot_x="24" hotspot_y="34">
+    <uuid uuid="{9e701831-e209-45ac-a115-f0be3a95adeb}"/>
+    <names>
+        <name lang="de">Lichtsensor 3-Leiter Schliesser</name>
+        <name lang="pl">Czujnik optyczny trójprzewodowy, zwierny</name>
+        <name lang="ar">حسّاس بصري (NO)</name>
+        <name lang="en">Optic sensor (NO)</name>
+        <name lang="fr">Capteur optique  (NO)</name>
+        <name lang="cs">Optické čidlo třídrátové (NO)</name>
+        <name lang="es">Sensor óptico 3 terminales NA</name>
+        <name lang="nl">Fotocel 2 (NC)</name>
+        <name lang="it">Sensore ottico (NC)</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" Valignment="AlignVCenter" y="-10" z="1" x="-30" text_from="ElementInfo" Halignment="AlignRight" uuid="{c675cd60-f3ee-4965-a628-4cfe8328f352}" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line antialias="false" end2="triangle" length2="0.2" y2="-12" x2="9" end1="none" x1="12" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-9"/>
+        <line antialias="false" end2="triangle" length2="0.2" y2="-12" x2="6" end1="none" x1="9" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-9"/>
+        <polygon x4="13" antialias="true" y2="-8" x2="13" x3="7" x1="13" y3="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2" y4="-2"/>
+        <line antialias="false" end2="none" length2="1.5" y2="-5" x2="7" end1="none" x1="1" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5"/>
+        <line antialias="false" end2="none" length2="1.5" y2="-5" x2="18" end1="none" x1="13" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5"/>
+        <line antialias="false" end2="none" length2="1.5" y2="-2" x2="7" end1="none" x1="7" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-8"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" y="-20" x="-8" color="#000000" text="BR"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" y="24" x="2" color="#000000" text="BK"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" y="-20" x="12" color="#000000" text="BL"/>
+        <line antialias="false" end2="none" length2="1.5" y2="16" x2="0" end1="none" x1="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30"/>
+        <line antialias="false" end2="none" length2="1.5" y2="0" x2="-8" end1="none" x1="-8" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10"/>
+        <line antialias="false" end2="none" length2="1.5" y2="0" x2="-12" end1="none" x1="-12" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10"/>
+        <line antialias="false" end2="none" length2="1.5" y2="-30" x2="10" end1="none" x1="10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-16"/>
+        <line antialias="false" end2="none" length2="1.5" y2="-30" x2="-10" end1="none" x1="-10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-16"/>
+        <rect height="31" antialias="false" y="-15" x="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" rx="0" ry="0"/>
+        <polygon antialias="true" y2="9" x2="3" x3="8" x1="-4" closed="false" y3="9" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="12"/>
+        <line antialias="false" end2="none" length2="1.5" y2="9" x2="-5" end1="none" x1="-8" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="9"/>
+        <polygon x4="-3" y5="-12" antialias="false" y2="-5" x2="-17" x3="-10" x1="-10" y3="2" x5="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" y4="-5"/>
+        <terminal orientation="n" y="-30" x="10"/>
+        <terminal orientation="n" y="-30" x="-10"/>
+        <terminal orientation="s" y="30" x="0"/>
+    </description>
+</definition>
