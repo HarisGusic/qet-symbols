@@ -1,0 +1,43 @@
+<definition orientation="dyyy" hotspot_y="70" hotspot_x="54" width="100" version="0.70" type="element" height="160" link_type="simple">
+    <uuid uuid="{e6fc9d70-4d54-4543-85b7-d70e0bdaced2}"/>
+    <names>
+        <name lang="en">Stepper Driver</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect antialias="false" x="-50" y="-66" rx="0" ry="0" width="90" height="150" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" x="-43" text="A" y="78" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" x="-25" text="A\" y="78" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" x="7" text="B" y="78" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" x="25" text="B\" y="78" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="12" text="EN(+)" y="62" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="16" text="EN(-)" y="42" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="13" text="DIR(-)" y="22" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="10" text="DIR(+)" y="2" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="12" text="CLK(-)" y="-18" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="9" text="CLK(+)" y="-37" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="-12" text="VDC" y="-45" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="-26" text="(+)" y="-52" color="#000000"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" x="6" text="(-)" y="-52" color="#000000"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" z="15" frame="false" x="-75" y="-56" uuid="{a0bb71b5-66a1-4af5-bb88-1d2558def66b}" text_from="ElementInfo" Halignment="AlignLeft" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" z="16" frame="false" x="-80" y="-31" uuid="{e92cf0b6-140c-488e-a95d-41104518ceed}" text_from="UserText" Halignment="AlignLeft" text_width="-1">
+            <text>_</text>
+        </dynamic_text>
+        <terminal orientation="e" x="40" y="20"/>
+        <terminal orientation="e" x="40" y="40"/>
+        <terminal orientation="e" x="40" y="-40"/>
+        <terminal orientation="n" x="10" y="-66"/>
+        <terminal orientation="n" x="-20" y="-66"/>
+        <terminal orientation="s" x="-20" y="84"/>
+        <terminal orientation="e" x="40" y="60"/>
+        <terminal orientation="s" x="10" y="84"/>
+        <terminal orientation="e" x="40" y="0"/>
+        <terminal orientation="s" x="-40" y="84"/>
+        <terminal orientation="s" x="30" y="84"/>
+        <terminal orientation="e" x="40" y="-20"/>
+    </description>
+</definition>
