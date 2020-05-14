@@ -1,0 +1,19 @@
+<definition width="50" version="0.80" type="element" height="90" hotspot_x="25" orientation="dyyy" hotspot_y="6" link_type="simple">
+    <uuid uuid="{530bdcd1-2c16-4701-a7c9-319c4bc30704}"/>
+    <names>
+        <name lang="fr">Camera</name>
+        <name lang="en">Camera</name>
+        <name lang="it">Camera</name>
+        <name lang="pl">Kamera</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line antialias="false" x1="-10" end1="none" length2="1.5" x2="-10" y2="0" end2="none" length1="1.5" y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="10" end1="none" length2="1.5" x2="10" y2="0" end2="none" length1="1.5" y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x4="18" y4="80" antialias="false" y6="65" x1="-10" x5="-18" x3="10" x2="10" y3="65" y2="20" x6="-10" y1="20" y5="80" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x4="20" y4="10" antialias="false" y6="70" x1="-13" x5="20" closed="false" x3="-20" x2="-20" y3="10" y2="70" x6="13" y1="70" y5="70" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="-10" y="0" orientation="n"/>
+        <terminal x="10" y="0" orientation="n"/>
+    </description>
+</definition>
