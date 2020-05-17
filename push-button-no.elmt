@@ -1,0 +1,35 @@
+<definition type="element" hotspot_x="14" width="20" hotspot_y="29" orientation="dyyy" version="0.80" link_type="master" height="60">
+    <uuid uuid="{9c1c74c7-6464-4b36-ab8a-62a74ff9c770}"/>
+    <names>
+        <name lang="cs">Tlačítko</name>
+        <name lang="it">Pulsante (NA)</name>
+        <name lang="pt">Botão de pressão (NA)</name>
+        <name lang="es">Pulsador</name>
+        <name lang="de">Drucktaster Schliesser</name>
+        <name lang="pl">Łącznik przyciskowy z powrotem samoczynnym</name>
+        <name lang="nl">Drukknop (NO)</name>
+        <name lang="ar">زرّ ضاغط</name>
+        <name lang="ru">Кнопка (НР)</name>
+        <name lang="en">Push-button</name>
+        <name lang="fr">Bouton poussoir</name>
+        <name lang="el">Μπουτόν, ανοικτή επαφή</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon y1="-10" y3="20" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-5" x2="0" x3="0" y2="10" antialias="true"/>
+        <line y1="-21" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" end2="none" length2="1.5" y2="-10" antialias="false"/>
+        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" Valignment="AlignVCenter" text_from="ElementInfo" z="3" frame="false" text_width="-1" y="-9.5" Halignment="AlignLeft" x="2" uuid="{4b2d8cc1-2b52-408a-8049-e095ab7ef149}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="0" end1="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="-3" end2="none" length2="1.5" y2="0" antialias="false"/>
+        <polygon y4="5" y1="-5" y3="5" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7" x2="-10" x3="-10" x4="-7" y2="-5" antialias="false"/>
+        <terminal orientation="n" y="-21" x="0"/>
+        <terminal orientation="s" y="21" x="0"/>
+    </description>
+</definition>

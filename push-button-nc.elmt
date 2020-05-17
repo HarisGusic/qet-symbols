@@ -1,0 +1,36 @@
+<definition type="element" hotspot_x="12" width="20" hotspot_y="29" orientation="dyyy" version="0.80" link_type="master" height="60">
+    <uuid uuid="{7abf0791-4455-444a-a26b-38998a724db9}"/>
+    <names>
+        <name lang="cs">Tlačítko (NC)</name>
+        <name lang="it">Pulsante (NC)</name>
+        <name lang="es">Pulsador (NC)</name>
+        <name lang="pt">Botão de pressão (NC)</name>
+        <name lang="pl">Łącznik przyciskowy z powrotem samoczynnym</name>
+        <name lang="de">Drucktaster Öffner</name>
+        <name lang="nl">Drukknop (NC)</name>
+        <name lang="ar">زرّ ضاغط (NC)</name>
+        <name lang="ru">Кнопка (НЗ)</name>
+        <name lang="en">Push-button (NC)</name>
+        <name lang="fr">Bouton poussoir (NF)</name>
+        <name lang="el">Μπουτόν, κλειστή επαφή</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon y1="-10" y3="20" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="5" x2="0" x3="0" y2="10" antialias="true"/>
+        <line y1="-9" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="6" end2="none" length2="1.5" y2="-9" antialias="false"/>
+        <line y1="-20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" end2="none" length2="1.5" y2="-9" antialias="false"/>
+        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" Valignment="AlignVCenter" text_from="ElementInfo" z="4" frame="false" text_width="-1" y="-9.5" Halignment="AlignLeft" x="7" uuid="{78bc1747-d618-41ed-8887-062a7b30a40e}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="0" end1="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="3" end2="none" length2="1.5" y2="0" antialias="false"/>
+        <polygon y4="5" y1="-5" y3="5" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7" x2="-10" x3="-10" x4="-7" y2="-5" antialias="false"/>
+        <terminal orientation="s" y="21" x="0"/>
+        <terminal orientation="n" y="-21" x="0"/>
+    </description>
+</definition>
