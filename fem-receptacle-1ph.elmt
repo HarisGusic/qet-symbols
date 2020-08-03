@@ -1,0 +1,37 @@
+<definition orientation="dyyy" version="0.80" type="element" link_type="simple" hotspot_y="18" height="40" width="70" hotspot_x="35">
+    <uuid uuid="{8a13b48d-717f-42e1-9bf3-0f4809ed2126}"/>
+    <names>
+        <name lang="it">Presa 2p+T</name>
+        <name lang="en">Female receptacle L+PE+N</name>
+        <name lang="pl">Gniazdo wtyczkowe</name>
+        <name lang="ar">Outlet 2P+T</name>
+        <name lang="es">Enchufe 2P+T</name>
+        <name lang="nl">Contact AC + aarde</name>
+        <name lang="de">Steckdose P+N+PE</name>
+        <name lang="fr">PC 2P+T</name>
+        <name lang="cs">Zásuvka PC 2P+T</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text x="13" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="N" rotation="0" color="#000000" y="-2"/>
+        <arc angle="-180" x="17" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" start="-180" width="6" y="6" antialias="true"/>
+        <arc angle="-180" x="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" start="-180" width="6" y="6" antialias="true"/>
+        <dynamic_text z="2" x="-39.34" text_width="-1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" uuid="{aff1c997-fbb0-4e3f-bc6d-d19f8fb0cbaa}" rotation="0" Halignment="AlignRight" frame="false" Valignment="AlignVCenter" y="-2" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end2="none" y1="-10" length2="1.5" x1="0" length1="1.5" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="6" end1="none" antialias="false"/>
+        <line end2="none" y1="-10" length2="1.5" x1="20" length1="1.5" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="6" end1="none" antialias="false"/>
+        <arc angle="-180" x="-23" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" start="-180" width="6" y="6" antialias="true"/>
+        <line end2="none" y1="-10" length2="1.5" x1="-20" length1="1.5" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="6" end1="none" antialias="false"/>
+        <line end2="none" y1="6" length2="1.5" x1="-3" length1="1.5" x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="6" end1="none" antialias="false"/>
+        <rect rx="0" x="-30" style="line-style:dashed;line-weight:normal;filling:none;color:black" height="16" ry="0" width="60" y="0" antialias="false"/>
+        <text x="-26" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="L" rotation="0" color="#000000" y="-2"/>
+        <text x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="PE" rotation="0" color="#000000" y="-2"/>
+        <terminal x="0" orientation="n" y="-10"/>
+        <terminal x="-20" orientation="n" y="-10"/>
+        <terminal x="20" orientation="n" y="-10"/>
+    </description>
+</definition>

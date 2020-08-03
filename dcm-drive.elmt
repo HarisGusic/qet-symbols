@@ -1,0 +1,33 @@
+<definition version="0.80" orientation="dyyy" link_type="simple" hotspot_x="73" hotspot_y="69" width="140" height="140" type="element">
+    <uuid uuid="{654b14a8-12a9-4f2a-b02f-71623a06aa75}"/>
+    <names>
+        <name lang="en">DC Motor Drive</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="0" text="5V" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-49" x="25"/>
+        <text rotation="0" text="M2" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="55" x="15"/>
+        <text rotation="0" text="GND" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-49" x="-8"/>
+        <rect rx="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-60" ry="0" width="120" height="120" x="-60"/>
+        <text rotation="0" text="ENA" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-27" x="-55"/>
+        <text rotation="0" text="IN1" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-7" x="-55"/>
+        <text rotation="0" text="IN2" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="13" x="-55"/>
+        <text rotation="0" text="GND" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="32" x="-55"/>
+        <text rotation="0" text="24V" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-49" x="-37"/>
+        <text rotation="0" text="M1" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="55" x="-25"/>
+        <dynamic_text z="15" rotation="0" uuid="{a0bb71b5-66a1-4af5-bb88-1d2558def66b}" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignVCenter" y="-60" Halignment="AlignRight" frame="false" text_width="-1" x="-91.3906">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="n" y="-64" x="30"/>
+        <terminal orientation="s" y="64" x="20"/>
+        <terminal orientation="s" y="64" x="-20"/>
+        <terminal orientation="n" y="-64" x="0"/>
+        <terminal orientation="n" y="-64" x="-30"/>
+        <terminal orientation="w" y="30" x="-64"/>
+        <terminal orientation="w" y="10" x="-64"/>
+        <terminal orientation="w" y="-10" x="-64"/>
+        <terminal orientation="w" y="-30" x="-64"/>
+    </description>
+</definition>

@@ -1,0 +1,46 @@
+<definition version="0.80" orientation="dyyy" link_type="simple" hotspot_x="25" hotspot_y="53" width="50" height="110" type="element">
+    <uuid uuid="{470d9b10-36f9-48e0-b81e-4d6a0b1b5922}"/>
+    <names>
+        <name lang="pl">Zawór sterujący 2/2, sterowany dźwignią, powrót wymuszony sprężyną</name>
+        <name lang="it">Elettrovalvola 2/2 con leva e molla obbligatoria</name>
+        <name lang="cs">Elektromagnetický ventil (solenoid) 2/2, s pákou, povinná pružina</name>
+        <name lang="en">Solenoid valve 5/2</name>
+        <name lang="fr">Electrovanne 2 / 2, à levier, ressort de rappel obligatoire</name>
+        <name lang="nl">klep rol veer 2/2</name>
+        <name lang="ar">صمّام بتحكم كهربائي 2/2 , بذراع , زمبرك إرجاع</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x3="-10.36" y3="2" antialias="false" y2="0" x1="-10.36" style="line-style:normal;line-weight:none;filling:black;color:none" x2="-15.36" y1="-2"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-5" x1="14.64" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-15.36" y1="-5"/>
+        <rect rx="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-35" ry="0" width="30" height="60" x="-15.36"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-30" x1="-15.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-11.36" y1="-30"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-28" x1="-11.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-11.36" y1="-32"/>
+        <line end2="none" length1="3" antialias="false" y2="-29" x1="-15.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="11.64" y1="-20"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-10" x1="14.64" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-13.36" y1="-10"/>
+        <line end2="none" length1="1.5" antialias="false" y2="0" x1="14.64" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-13.36" y1="0"/>
+        <line end2="none" length1="1.5" antialias="false" y2="20" x1="-15.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-11.36" y1="20"/>
+        <line end2="none" length1="1.5" antialias="false" y2="22" x1="-11.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-11.36" y1="18"/>
+        <line end2="none" length1="1.5" antialias="false" y2="19" x1="-15.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="11.64" y1="10"/>
+        <rect rx="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="25" ry="0" width="15" height="25" x="-15.36"/>
+        <rect rx="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="25" ry="0" width="15" height="15" x="-0.36"/>
+        <line end2="none" length1="1.5" antialias="false" y2="50" x1="-17.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="1.64" y1="50"/>
+        <line end2="none" length1="1.5" antialias="false" y2="28" x1="-0.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="14.64" y1="37"/>
+        <polygon x3="-10.36" y3="-8" antialias="false" y2="-10" x1="-10.36" style="line-style:normal;line-weight:none;filling:black;color:none" x2="-15.36" y1="-12"/>
+        <polygon x3="10.64" y3="-27" antialias="false" y2="-30" x1="14.64" style="line-style:normal;line-weight:none;filling:black;color:black" x2="9.64" y1="-30"/>
+        <polygon x3="10.64" y3="17" antialias="false" y2="20" x1="14.64" style="line-style:normal;line-weight:none;filling:black;color:black" x2="9.64" y1="20"/>
+        <polygon x6="-5.36" x3="2.64" x7="-0.36" y3="-39" y4="-41" x4="-5.36" antialias="false" y2="-37" y7="-47" x1="-0.36" x5="2.64" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5.36" y5="-43" y6="-45" y1="-35"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-20" x1="-19.36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-16.36" y1="-20"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-10" x1="15.64" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="18.64" y1="-10"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-30" x1="15.64" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="18.64" y1="-30"/>
+        <dynamic_text z="41" rotation="0" uuid="{4629c363-2bb3-4bc1-bba0-ce5fc39293c4}" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignVCenter" y="30" Halignment="AlignRight" frame="false" text_width="-1" x="-27">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="w" y="-20" x="-19.36"/>
+        <terminal orientation="e" y="-10" x="18.64"/>
+        <terminal orientation="e" y="-30" x="18.64"/>
+    </description>
+</definition>

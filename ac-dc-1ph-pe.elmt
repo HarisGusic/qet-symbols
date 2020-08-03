@@ -1,0 +1,51 @@
+<definition orientation="dyyy" version="0.80" type="element" link_type="simple" hotspot_y="35" height="70" width="80" hotspot_x="40">
+    <uuid uuid="{94c7f15c-f253-4eed-a4a9-e8e42baec564}"/>
+    <names>
+        <name lang="en">DC supply L N PE / + -</name>
+        <name lang="hu">24V DC tápegység 1 fázis</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine-manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer-reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <arc angle="60" x="-20.45" style="line-style:normal;line-weight:normal;filling:none;color:black" height="10" start="196" width="10" y="-16" antialias="true"/>
+        <arc angle="65" x="-22.1" style="line-style:normal;line-weight:normal;filling:none;color:black" height="10" start="-76" width="10" y="-16" antialias="true"/>
+        <arc angle="60" x="-30.25" style="line-style:normal;line-weight:normal;filling:none;color:black" height="10" start="16" width="10" y="-14" antialias="true"/>
+        <text x="-26" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="L" rotation="0" color="#000000" y="-21"/>
+        <text x="9" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="PE" rotation="0" color="#000000" y="-21"/>
+        <text x="-7" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="N" rotation="0" color="#000000" y="-21"/>
+        <text x="-18" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="+" rotation="0" color="#000000" y="27"/>
+        <polygon y4="-20" y1="-20" x1="-35" x2="-35" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="35" x3="35" y2="20" y3="20" antialias="false"/>
+        <line end2="none" y1="21" length2="1.5" x1="-10" length1="1.5" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="25" end1="none" antialias="false"/>
+        <line end2="none" y1="20" length2="1.5" x1="10" length1="1.5" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="25" end1="none" antialias="false"/>
+        <line end2="none" y1="-20" length2="1.5" x1="0" length1="1.5" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-25" end1="none" antialias="false"/>
+        <line end2="none" y1="-20" length2="1.5" x1="20" length1="1.5" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-25" end1="none" antialias="false"/>
+        <line end2="none" y1="-25" length2="1.5" x1="-20" length1="1.5" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-20" end1="none" antialias="false"/>
+        <line end2="none" y1="20" length2="1.5" x1="-35" length1="1.5" x2="35" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-20" end1="none" antialias="false"/>
+        <arc angle="65" x="-28.6" style="line-style:normal;line-weight:normal;filling:none;color:black" height="10" start="104" width="10" y="-14" antialias="true"/>
+        <line end2="none" y1="10" length2="1.5" x1="25" length1="1.5" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" end1="none" antialias="false"/>
+        <line end2="none" y1="15" length2="1.5" x1="10" length1="1.5" x2="15" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" end1="none" antialias="false"/>
+        <line end2="none" y1="15" length2="1.5" x1="25" length1="1.5" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" end1="none" antialias="false"/>
+        <line end2="none" y1="25" length2="1.5" x1="7" length1="1.5" x2="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="25" end1="none" antialias="false"/>
+        <dynamic_text z="44" x="-47.39" text_width="-1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" uuid="{033dcad4-cb30-4d3b-b4bd-dd2ae682b3b2}" rotation="0" Halignment="AlignRight" frame="false" Valignment="AlignVCenter" y="-10" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="20" orientation="n" y="-25"/>
+        <terminal x="-10" orientation="s" y="25"/>
+        <terminal x="0" orientation="n" y="-25"/>
+        <terminal x="10" orientation="s" y="25"/>
+        <terminal x="-20" orientation="n" y="-25"/>
+    </description>
+</definition>

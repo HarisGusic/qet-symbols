@@ -1,0 +1,44 @@
+<definition version="0.80" orientation="dyyy" link_type="simple" hotspot_x="85" hotspot_y="59" width="170" height="120" type="element">
+    <uuid uuid="{052c05db-1d74-4a54-9574-5e855e56a4d4}"/>
+    <names>
+        <name lang="en">Frequency divider</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="0" text="(24V)" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" y="-32" x="53"/>
+        <text rotation="0" text="ENC B" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="44" x="49"/>
+        <text rotation="0" text="ENC A" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="44" x="9"/>
+        <text rotation="0" text="ENC GND" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="44" x="-35"/>
+        <text rotation="0" text="ENC 5V" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="44" x="-73"/>
+        <text rotation="0" text="5V" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-39" x="-35"/>
+        <text rotation="0" text="GND" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-39" x="-8"/>
+        <text rotation="0" text="A2" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-39" x="26"/>
+        <text rotation="0" text="A1" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-39" x="56"/>
+        <rect rx="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-50" ry="0" width="160" height="100" x="-80"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-50" x1="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-60" y1="-54"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-50" x1="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-30" y1="-54"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-50" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="0" y1="-54"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-50" x1="30" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="30" y1="-54"/>
+        <dynamic_text z="15" rotation="0" uuid="{a0bb71b5-66a1-4af5-bb88-1d2558def66b}" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignVCenter" y="-50" Halignment="AlignRight" frame="false" text_width="-1" x="-95">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end2="none" length1="1.5" antialias="false" y2="-50" x1="60" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="60" y1="-54"/>
+        <line end2="none" length1="1.5" antialias="false" y2="54" x1="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-60" y1="50"/>
+        <line end2="none" length1="1.5" antialias="false" y2="54" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="-20" y1="50"/>
+        <line end2="none" length1="1.5" antialias="false" y2="54" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="20" y1="50"/>
+        <line end2="none" length1="1.5" antialias="false" y2="54" x1="60" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="60" y1="50"/>
+        <text rotation="0" text="24V" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-39" x="-67"/>
+        <text rotation="0" text="(24V)" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" y="-32" x="24"/>
+        <terminal orientation="s" y="54" x="60"/>
+        <terminal orientation="n" y="-54" x="30"/>
+        <terminal orientation="n" y="-54" x="-30"/>
+        <terminal orientation="s" y="54" x="-60"/>
+        <terminal orientation="n" y="-54" x="-60"/>
+        <terminal orientation="s" y="54" x="20"/>
+        <terminal orientation="n" y="-54" x="60"/>
+        <terminal orientation="n" y="-54" x="0"/>
+        <terminal orientation="s" y="54" x="-20"/>
+    </description>
+</definition>

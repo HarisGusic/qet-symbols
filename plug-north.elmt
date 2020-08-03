@@ -1,0 +1,33 @@
+<definition version="0.80" orientation="dyyy" link_type="terminal" hotspot_x="10" hotspot_y="23" width="20" height="30" type="element">
+    <uuid uuid="{cf892c5b-1cfb-42d3-ac87-83171d1aa570}"/>
+    <names>
+        <name lang="pl">Zacisk</name>
+        <name lang="it">Terminale di fine</name>
+        <name lang="pt">Terminal de fim</name>
+        <name lang="cs">Koncová svorka</name>
+        <name lang="en">Plug north</name>
+        <name lang="de">Endklemme</name>
+        <name lang="fr">Borne finale</name>
+        <name lang="nl">Klem eind</name>
+        <name lang="es">Punto de unión</name>
+        <name lang="ru">Клеммник</name>
+        <name lang="ar">طرف نهائي</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text z="1" rotation="0" uuid="{b090192e-68cd-490d-a987-db2825202ee1}" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text_from="UserText" Valignment="AlignTop" y="2" Halignment="AlignHCenter" frame="false" text_width="-1" x="-4">
+            <text></text>
+        </dynamic_text>
+        <line end2="none" length1="1.5" antialias="false" y2="-3" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="0" y1="-10"/>
+        <circle antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-2.5" x="-2.5"/>
+        <rect rx="0" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" y="-10" ry="0" width="4" height="6" x="-2"/>
+        <arc start="0" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-14" width="8" height="8" angle="180" x="-4"/>
+        <line end2="none" length1="1.5" antialias="false" y2="-14" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" x2="0" y1="-18"/>
+        <dynamic_text z="7" rotation="0" uuid="{d173aaca-400f-41dc-af6c-50ac3f892f40}" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text_from="UserText" Valignment="AlignTop" y="15" Halignment="AlignHCenter" frame="false" text_width="-1" x="-4">
+            <text></text>
+        </dynamic_text>
+        <terminal orientation="n" y="-18" x="0"/>
+    </description>
+</definition>
