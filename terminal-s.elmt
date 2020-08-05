@@ -1,0 +1,30 @@
+<definition hotspot_y="4" type="element" width="10" orientation="dyyy" link_type="terminal" version="0.80" hotspot_x="4" height="20">
+    <uuid uuid="{90296d98-ccd4-4778-81ae-23ec7453b499}"/>
+    <names>
+        <name lang="ru">Клеммник</name>
+        <name lang="nl">Klem eind</name>
+        <name lang="it">Terminale di fine</name>
+        <name lang="fr">Borne finale</name>
+        <name lang="ar">طرف نهائي</name>
+        <name lang="de">Endklemme</name>
+        <name lang="es">Punto de unión</name>
+        <name lang="en">Terminal south</name>
+        <name lang="cs">Koncová svorka</name>
+        <name lang="pt">Terminal de fim</name>
+        <name lang="pl">Zacisk</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text z="1" rotation="0" frame="false" text_width="-1" text_from="UserText" Valignment="AlignBottom" y="-19" Halignment="AlignHCenter" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-3.99" uuid="{b090192e-68cd-490d-a987-db2825202ee1}">
+            <text></text>
+        </dynamic_text>
+        <line y1="3" length2="1.5" end1="none" antialias="false" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y2="10" length1="1.5" end2="none"/>
+        <circle antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" y="-2.5" x="-2.5"/>
+        <dynamic_text z="7" rotation="0" frame="false" text_width="-1" text_from="UserText" Valignment="AlignBottom" y="-32" Halignment="AlignHCenter" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-4.15" uuid="{959951c6-3d7c-420a-927e-cf2906725808}">
+            <text></text>
+        </dynamic_text>
+        <terminal y="10" orientation="s" x="0"/>
+    </description>
+</definition>
